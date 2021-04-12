@@ -10,5 +10,6 @@ It includes some topics -
 - while loop
 <br />
 <h2>
-A sample output of the program -</h2>
+A sample output of the program -
 ![image](https://user-images.githubusercontent.com/55484263/114416905-c4aa5e80-9bce-11eb-84ab-46ba39ea5926.png)
+</h2>
