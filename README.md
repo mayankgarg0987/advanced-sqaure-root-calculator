@@ -1,4 +1,4 @@
-# advanced-sqaure-root-calculator
+# advanced-square-root-calculator
 
 This is a program written in Python version 3 to calculate square root of a number.<br>
 I was given a homework but I made it more advanced just for fun.<br>
